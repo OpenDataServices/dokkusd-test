@@ -1,0 +1,11 @@
+{
+	"name": "Co-op Website",
+	"dokkusd": {
+		"services": [
+			"postgres"
+		],
+		"volumes": [
+			"/usr/share/nginx/html/storage"
+		]
+	}
+}
